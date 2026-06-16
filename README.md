@@ -13,7 +13,7 @@ A lightweight NFT gallery and portfolio viewer for any Solana wallet address. No
 
 Built mobile-first because most users in emerging markets browse on phones.
 
-**Live demo:** `[your-deployed-url-here]`
+**Live demo:** (https://solana-nft-gallery.netlify.app/)
 
 ## Features
 
